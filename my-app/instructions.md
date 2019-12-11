@@ -1,0 +1,1 @@
+# -To build new react app write the command: npm init react-app my-app
